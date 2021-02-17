@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "462157574510",
+    "firebase_url": "https://fryes-4ebd4.firebaseio.com",
+    "project_id": "fryes-4ebd4",
+    "storage_bucket": "fryes-4ebd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462157574510:android:6746ba8125167f0d17917f",
+        "android_client_info": {
+          "package_name": "com.example.fryes_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462157574510-dvksqr5vja8vjc587iba9h2ou8fam1ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhCUwxIZkpJstKsQFBvV2jE15kWaYjGTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462157574510-dvksqr5vja8vjc587iba9h2ou8fam1ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
